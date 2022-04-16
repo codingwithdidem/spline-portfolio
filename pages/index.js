@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
 
       <div className="fixed z-50 inset-x-0 w-full flex justify-center items-center text-white">
-        <h1 className="text-4xl py-10">Hello, I'm Didem</h1>
+        <h1 className="text-4xl py-10">Hello, I&apos;m Didem</h1>
       </div>
 
       <div className="relative">
